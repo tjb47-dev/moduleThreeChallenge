@@ -27,10 +27,11 @@ Module Three Challenge for UCF Coding Bootcamp, creating a Random Password Gener
 ## Link
 
 Here is the link to the GitPages site I have created.
+https://tjb47-dev.github.io/moduleThreeChallenge/
 
 ## Screenshot
 
-![Screenshot of Random Password Generator Webpage.]()
+![Screenshot of Random Password Generator Webpage.](https://raw.githubusercontent.com/tjb47-dev/moduleThreeChallenge/main/assets/images/pass_gen.png)
 
 ## Credits
 
